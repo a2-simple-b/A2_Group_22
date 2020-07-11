@@ -21,3 +21,4 @@
 11/07/20: Merged IT Work Audio file from Jess into the repo
 11/07/20: Updated Ian with profile picture for the website
 11/07/20: Issues with GitHub, files are being deleted upon upload. Investigating.
+11/07/20: Applied some formatting to Jess' contribution in HTML to help Ian.
