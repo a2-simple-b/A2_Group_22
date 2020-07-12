@@ -1,0 +1,4 @@
+Autonomous Vehicles
+What does it do?
+An autonomous vehicle can be any vehicle that is capable of sensing its own environment and drive without human operation meaning there doesn’t even have to be a passenger in the car. There is also a difference between automated and autonomous vehicles. Automated vehicles take instructions and will not go beyond that whereas an autonomous vehicle can fully think for itself so if it decides to drive somewhere without human instructions it can.
+There are currently many reasons why autonomous vehicles haven’t been released to the public as of yet however they are still being developed and tested to ensure the best results. Companies such as Alphabet (Google’s parent company), Tesla, BMW, Audi, Amazon, Uber and plenty more are all working towards a future for autonomous vehicles. These vehicles have many different detection mechanisms to assist the car becoming aware of its surroundings.
