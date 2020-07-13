@@ -25,3 +25,4 @@
 12/07/20: Taken on the task to finish Jess' transcription for IT work section
 12/07/20: Fixed some grammar issues and formatting in IT Technologies (HTML)
 13/07/20: Formatted IT Work with CSS, created a table that allows for easy view of the conversation between both parties.
+13/07/20: Added Signature to Contributions form
