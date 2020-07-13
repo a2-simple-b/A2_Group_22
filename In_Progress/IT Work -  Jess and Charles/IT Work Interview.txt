@@ -41,7 +41,7 @@ Rene: Yeah, a bit of everything. We touch a few not for profits. Trying to think
 Jess: You guys do Education, like the schools as well don’t you?
 Rene: Yeah, that’s kind of dropping off though. Pulling it all into themself, to try and push any third party providers away but personally myself, I’m kind of accounting and not for profit… mostly around citrix solutions.
 Jess: What is Citrix?
-Rene: Okay… so that is
+Rene: Okay… so that is a solution that allows you to work from home
 Rene: It’s come in quite handy over the last few months. 
 Jess: Right, so due to COVID you have a lot of interest in Citrix at the moment. 
 Rene: Well I wouldn’t put it like that because of the time setting it up for people, but for the people that already got it, have really managed to take advantage of it.
@@ -52,18 +52,18 @@ Jess: Yep, oh so help desk stuff
 Rene: well even Reception. 
 Jess: Oh right
 Rene: I’ll sit in reception if reception’s not there. 
-Jess: So if clients come in you might be sitting at the front greeting them
+Jess: So if clients come in you might be sitting at the front greeting them?
 Rene: I’ll go and look after them if reception is not there, apart from that though that’s probably the only case. 
 Jess: Right, so you obviously have a lot of client relationship experience
 Rene: Correct!
 Jess: To get to where you were, did you study many years, did you study a degree?
 Rene: Yes, I’ve got a Bachelor of Computer Science
-Jess: Computer Science, ok, was that your goal, to become a Systems Engineer?
+Jess: Computer Science, ok, and was that your goal, to become a Systems Engineer?
 Rene: Probably not at the time. So Computer Science degree is more focussed on programming and that kinda stuff. I was kinda a bit burnt out when I finished Uni I kinda just fell into this path to be a Systems Engineer
 Jess: What aspects of your work do you find you spend the most time on every day
 Rene: Um it can change from day to day. A lot of it is UAT and testing
 Jess: You find you do that on a daily basis, something routinely.
-Rene: Well it depends, I'm kind of knee deep in project stuff at the moment. I’m kind of just trying to finish off a server refresh for council. All of it has gone really, really easy, until the last bit which is the end user face bit and that's taking up, taking multiple months because it requires testing and users don’t.
+Rene: Well it depends, I'm kind of knee deep in project stuff at the moment. I’m kind of just trying to finish off a server refresh for council. All of it has gone really, really easy, until the last bit which is the end user interface bit and that's taking up, taking multiple months because it requires testing and users don’t.
 Jess: You test for months on end, or do you get people to test, how does that work?
 Rene: We get users to test, cause we don’t know how the applications work ourself in terms of the finance package or…
 Jess: Where do you find users to do that?
@@ -78,14 +78,46 @@ Jess: Do you like the challenge that comes with your job?
 
 Rene: Yeah yeah for sure. One day we’ll retire and be a IT Manager but we can’t do it now because we’d get too bored.
 Jess: Are there any other areas of the IT Industry that you’d like to work on or possibly move into
-Yeah down the road, when you retire - something less stressful.
+Rene: Yeah down the road, when you retire - something less stressful.
 Jess: Less stressful, so an IT Manager do you think will be less stressful? 
-
+Rene: Depending on what level it is.
 Jess: Do you think you’ll be a Systems Engineer for a while yet? Can you see yourself changing paths?
 Rene: Probably not in the next couple of years but maybe after that yes
-Jess: Do you get to work with new technology? I wanted to ask you when you speak with clients, do you sometimes always have to sell what you work on. For example they might need to upgrade to office 365 but they might have a CFO that doesn’t agree with that, do you find that challenging? Having to know that you’ve already upgraded and you’re working with clients that are advanced and you go back to other client who is still in the dinosaur ages?
+Jess: Do you get to work with new technology? I wanted to ask you when you speak with clients, do you sometimes always have to sell what you work on. For example they might need to upgrade to office 365 but they might have a CFO that doesn’t agree with that, do you find that challenging? Having to know that you’ve already upgraded and you’re working with clients that are advanced and then you go back to other client who is still in the dinosaur ages?
 
 Rene: I wouldn’t say dinosaur age but yes, can be challenging yes. 
+
+Jess: So your normal 48 hour work week, is that normal for you? or are you on call after hours when things go badly?
+
+Rene: Yeah, so I'm on call 24/7,
+
+Jess: So thats part of your contract with subnet?
+
+Rene: Yes, well its extra on top of what we already do.
+
+Rene: We do get compensated for it... quite generously.
+
+Jess: With technologies constantly changing, is there any technologies that you haven't worked with yet? or want to work with given the chance?
+
+Rene: All the time, its a matter of only being able to take on so much.
+
+Jess: Like AI or Robots?
+
+Rene: I'm thinking more from a product perspective
+
+Rene: I think AI and Robots and that kind of stuff is still getting there ... still in the future.
+
+Jess: So what kind of programs would you be interested in at the moment but haven't explored yet.
+
+Rene: I would like to do alot more azure, which is basically microsofts public facing crowd offering.
+
+Jess: Are you a MAC or a PC guy?
+
+Rene: PC
+
+Jess: Well I think I might leave you with that. Thankyou so much.
+
+Rene: That's alright.
 
 
 
