@@ -22,4 +22,8 @@
 11/07/20: Updated Ian with profile picture for the website
 11/07/20: Issues with GitHub, files are being deleted upon upload. Investigating.
 11/07/20: Applied some formatting to Jess' contribution in HTML to help Ian.
+<<<<<<< Updated upstream
 12/07/20: Taken on the task to finish Jess' transcription for IT work section
+=======
+12/07/20: Fixed some grammar issues and formatting in IT Technologies (HTML)
+>>>>>>> Stashed changes
