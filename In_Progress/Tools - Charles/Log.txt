@@ -26,3 +26,4 @@
 12/07/20: Fixed some grammar issues and formatting in IT Technologies (HTML)
 13/07/20: Formatted IT Work with CSS, created a table that allows for easy view of the conversation between both parties.
 13/07/20: Added Signature to Contributions form
+14/07/20: Designed layout for "Groupreflection.html" added css and html
