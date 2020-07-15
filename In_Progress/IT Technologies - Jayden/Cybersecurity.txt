@@ -4,3 +4,12 @@ The most common attack vectors in cybersecurity are already regulated with machi
 The rise of ransomware has costed organisations billions of dollars every single year and machine learning may not be able to prevent every attack vector. Quantum computers are designed to calculate complex algorithms that non traditional computers can’t. Quantum computers will be able to break cryptography and weaken ones that can’t be broken. This may be possible within the next three years but only to people and organisations who can afford a quantum computer due to how expensive the system costs and to maintain it.
 Security experts continuously look for vulnerabilities in both software and hardware to report the flaw to organisations. Usually these organisations offer a bug bounty program which offers money or reputation in return for reporting the vulnerability. Because of this, the cybersecurity industry will become increasingly more competitive and more people are coming to the field due to the high demand.
 In the next few years, cybersecurity will have evolved becoming entirely different from the current circumstances due to technology evolving but the principals and methodology will have stayed the same. Security will have changed massively as companies increasingly make employees more aware of social engineering attack vectors which is one of the most effective ways at attacking targets as people can be more vulnerable than the machines they use and once an attacker gains access it can be difficult to claim back the device and costing millions of dollars.
+
+
+Sources:
+https://www.disruptordaily.com/future-of-cybersecurity/
+https://www.greenlight-itc.com/cyber-crime-security-statistics-australia/
+https://www.okta.com/blog/2019/07/the-impact-of-quantum-computing-on-cybersecurity/
+https://www.dst.defence.gov.au/sites/default/files/publications/documents/Future-Cyber-Security-Landscape.pdf
+
+
