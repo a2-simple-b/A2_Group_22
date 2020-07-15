@@ -11,3 +11,26 @@ Machine learning will change the world unlike anyone would think because it’s 
 How will this affect you?
 A lot of people are worried that machines will take over everyone’s job, making people fat and lazy when this isn’t true as there will be jobs for a very long time however maybe they are easily replaceable by a machine. If people are worried about being replaced by machines because their job is so simple that at the stage of civilisations technology currently is, than they should be working to equip themselves with more skills and adding value to their lives. It is inevitable that machines will advance and if people aren’t willing to advance themselves than they shouldn’t be complaining as the entire idea of machine learning is to assist people and creating a better world whatever the small changes may be.
 The education system should advance  with the help of artificial intelligence so schools will be able to teach more effectively that way children can grow to be more smart and intelligent, contributing to society in a much more helpful way. Shopping can become a lot easier with a computer ordering all the necessities and delivering the product to the door, this can save a lot of time and energy not needed to be wasted while the person is working or spending time with their family. Vehicles will be completely autonomous with the help of machine learning playing a big part. Everyone being a passenger in the car can be a much safer option especially if people are unable to drive.
+
+
+
+Sources
+https://www.geeksforgeeks.org/5-mind-blowing-ways-facebook-uses-machine-learning/
+https://engineering.fb.com/core-data/introducing-deeptext-facebook-s-text-understanding-engine/
+https://www.facebook.com/business/news/good-questions-real-answers-how-does-facebook-use-machine-learning-to-deliver-ads	
+http://www.whatafuture.com/machine-learning-algorithm-for-youtube-search-results/#:~:text=YouTube%2C%20as%20per%20the%20patent,to%20this%20machine%20learning%20model.&text=This%20will%20let%20YouTube%20recognize,than%20just%20the%20textual%20data.
+https://www.forbes.com/sites/bernardmarr/2019/08/23/the-amazing-ways-youtube-uses-artificial-intelligence-and-machine-learning/#49472c6d5852
+https://www.cambridge.org/core/journals/infection-control-and-hospital-epidemiology/article/identification-of-covid19-can-be-quicker-through-artificial-intelligence-framework-using-a-mobile-phonebased-survey-when-cities-and-towns-are-under-quarantine/7151059680918EF9B8CDBCC4EF19C292/core-reader
+https://journals.physiology.org/doi/full/10.1152/physiolgenomics.00029.2020
+https://covid19-projections.com/
+https://thenextweb.com/insights/2020/03/04/scientists-need-your-computing-power-to-find-a-cure-for-coronavirus/
+https://foldingathome.org/start-folding/
+https://medium.com/sciforce/machine-learning-in-agriculture-applications-and-techniques-6ab501f4d1b5#:~:text=Mostly%2C%20machine%20learning%20techniques%20are,Support%20Vector%20Machines%20(SVMs).
+https://towardsdatascience.com/7-reasons-why-machine-learning-is-a-game-changer-for-agriculture-1753dc56e310
+https://theurbandeveloper.com/articles/the-future-of-smart-homes
+https://futurism.com/the-kardashev-scale-type-i-ii-iii-iv-v-civilization
+
+
+
+
+
