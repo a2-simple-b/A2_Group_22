@@ -1,5 +1,16 @@
+Robots
 What does it do?
-
+Robots are a machine designed to execute tasks in an automated fashion to reduce the need of human intervention. The industrial sector uses robotics for the majority of manufacturing tasks such as lifting and welding parts together using what the robot has been gifted. Many people think of robots as machines designed to appearance human with the functionality of completing daily tasks however that is just a single type of robot with a human model and the name for this type of robot is an android. The android robots aren’t actually capable of being thinking, learning and apply learned knowledge without an artificial intelligence program being loaded however a full AI program is unlikely to loaded into a machine with real world capabilities for a long time until AI is more understood and we aren’t even at such as stage yet so machine learning would be the second option.
 What is the likely impact?
-
+Robots will most likely take jobs away from working roles that seem unattractive however that will mean the rise of more jobs so being worried about work should not be an issue. Automation is a thing of the future and is going to happen either way however people should be more prepared instead of being worried. Studying engineering and learning different skills should keep a person relevant and hireable instead of redundant. People however could be lazy and unmotivated without the need to do simple and boring tasks such as cleaning the dishes because we have dish washers and maybe a robot that will even rinse the dishes before hand the clean the dish washer after or wash the clothes and hang them to dry. 
 How will this affect you?
+Having more robots advancing society is very appealing to myself as it could potentially make my life a lot more productive and easier. It saves a lot of time knowing I have a robot to clean my floors instead of spending thirty minutes doing it myself when I could easily find a better thing to do such as spending time with my family, going to the gym, studying, working and the list goes on.
+
+
+
+Sources
+https://searchenterpriseai.techtarget.com/definition/robot
+https://www.quora.com/How-are-robots-made
+https://www.valin.com/resources/articles/five-types-of-industrial-robots-and-how-to-choose-the-best-fit
+
+
