@@ -136,7 +136,7 @@ header.special {
     margin-left: auto;
     margin-right: auto; }
 
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5 {
   font-weight: 300;
   line-height: 1.5;
   text-transform: uppercase;
@@ -163,7 +163,7 @@ h5 {
   font-size: 0.9rem; }
 
 h6 {
-  font-size: 0.7rem; }
+  font-size: 1.10rem; }
 
 @media screen and (max-width: 736px) {
   h1 {
@@ -2820,3 +2820,24 @@ body.is-menu-visible #menu {
   transform: translateX(0);
   box-shadow: 0 0 1.5rem 0 rgba(0, 0, 0, 0.2);
   visibility: visible; }
+
+
+/*Below is Charles' CSS for Transcript formatting*/
+.transcript{ 
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {background-color: #dbdbdb;}
+
+/*Below is Charles' CSS for Group reflection questions (Changes have been made to margins)*/
+h6 {
+  font-weight: 900;
+  line-height: 1.5;
+  text-transform: uppercase;
+  margin: 0 0 0.3rem 0; }
