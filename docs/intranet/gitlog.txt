@@ -1,14 +1,159 @@
+commit 7f5fbda20af4d1c437d4a562066b4ec169ff9ead
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sun Jul 19 23:09:21 2020 +1000
+
+    PDF Final content
+
+commit 2ecba5020dac37f5b3cb6ccf8c44cc9e90a6b7a8
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sun Jul 19 22:57:37 2020 +1000
+
+    PDF complete - Still polishing
+
+commit 810215c6a5c980bb2b09fabe6c25ddb8e74fcd2a
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sun Jul 19 21:53:03 2020 +1000
+
+    Create Writing Task.txt
+
+commit d6f4a092b468d6f477374f9e3fe0e355f2378e3a
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sun Jul 19 21:51:32 2020 +1000
+
+    Finishing up A2, getting ready A3. Restructure folders
+
+commit 20c991808f94897a6d59d079f94e3e2eb6a3837b
+Merge: 3809057 5d99319
+Author: PioneerTechnologist <67222794+PioneerTechnologist@users.noreply.github.com>
+Date:   Sun Jul 19 20:27:53 2020 +1000
+
+    Merge pull request #8 from a2-simple-b/Jaydens_Branch
+    
+    Jaydens branch
+
+commit 5d993191ca93d1e411ba376dd0f593ca447b3a8e
+Author: PioneerTechnologist <67222794+PioneerTechnologist@users.noreply.github.com>
+Date:   Sun Jul 19 20:26:05 2020 +1000
+
+    Update Cybersecurity.txt
+
+commit 3809057e2451f94e8743af7135f79d81f9fc06b2
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sun Jul 19 17:55:48 2020 +1000
+
+    PDF report
+
+commit 448362206c76dd48373fd791e647b8da82dae92f
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sun Jul 19 17:47:48 2020 +1000
+
+    PDF + copy working files back to working directory
+
+commit 33dd79252bb7176fd366a276f06213739307c9a5
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sun Jul 19 15:21:42 2020 +1000
+
+    PDF work in progress
+
+commit fecc84da31e8850449b5e7e4128ab7b0ac82fb0a
+Author: charles2075 <charles.patterson1@hotmail.com>
+Date:   Sun Jul 19 15:18:41 2020 +1000
+
+    Site Update (Footer)
+
+commit 8a5e081b9b284aa80bbcc849c470cd0b33784d65
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sun Jul 19 12:44:33 2020 +1000
+
+    PDF in progress
+
+commit f6d1b9a3422b55554e99efb91d52a3d83a66316e
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sun Jul 19 12:06:21 2020 +1000
+
+    PDF Report in progress
+
+commit e8da89a4dac68595f60c836ae5e31d311e54830e
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sun Jul 19 10:00:48 2020 +1000
+
+    Update Robots.txt
+
+commit 4ab48212444c1b44b5fe48bc758adda6248c374b
+Merge: 76a2337 476d5f5
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sun Jul 19 09:57:45 2020 +1000
+
+    Merge branch 'master' into Jaydens_Branch
+
+commit 76a233716f304c9780c5a2aa434d789e4da001d6
+Merge: 24f2c69 aa2559e
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sun Jul 19 09:56:46 2020 +1000
+
+    Merge branch 'Jaydens_Branch' of https://github.com/a2-simple-b/A2_Group_22 into Jaydens_Branch
+
+commit 476d5f521f539ae0143c42ce5e1f64b4c4cf8152
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sun Jul 19 09:56:20 2020 +1000
+
+    Create Jobs.ods
+
+commit 3cd18f7bd9da32188b28db4976b77dd42fb06570
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sun Jul 19 00:02:15 2020 +1000
+
+    pdf in progress
+
+commit 563535a095bcd2ac7fbeb02341ae67a748258a04
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sat Jul 18 23:06:51 2020 +1000
+
+    PDF report
+
+commit 9ee7a12d4bb776171e44ecab4f38a6dbb95b2643
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sat Jul 18 21:53:47 2020 +1000
+
+    Update groupreflection.html
+
+commit 98066002a62a99260f3cdf267e7dacf1ff14aabc
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sat Jul 18 21:51:54 2020 +1000
+
+    PDF work in progress + gitlog.txt
+    
+    PDF
+
 commit e7a2f7fc3e9ae4d66d85eaa4002eb7dad48d7252
 Author: Jove2001 <s3863018@student.rmit.edu.au>
 Date:   Sat Jul 18 21:15:24 2020 +1000
 
     PDF in progress
 
+commit aa2559eb352df26b47aa34976b7ad328f674bcbc
+Author: PioneerTechnologist <67222794+PioneerTechnologist@users.noreply.github.com>
+Date:   Sat Jul 18 19:51:22 2020 +1000
+
+    Update Robots.txt
+
 commit 686f37f15b2149f44cc017dbc54eb225a1a82fd7
 Author: Jove2001 <s3863018@student.rmit.edu.au>
 Date:   Sat Jul 18 19:11:40 2020 +1000
 
     PDF in progress + round logo
+
+commit 28dbe6bff3a1b535115e718e4bdffb995bef1068
+Author: PioneerTechnologist <67222794+PioneerTechnologist@users.noreply.github.com>
+Date:   Sat Jul 18 18:58:39 2020 +1000
+
+    Update Robots.txt
+
+commit 4e89b4ba4133007b16889d698324131924b83f7a
+Author: PioneerTechnologist <67222794+PioneerTechnologist@users.noreply.github.com>
+Date:   Sat Jul 18 18:37:59 2020 +1000
+
+    Update Robots.txt
 
 commit 6b18d5cec84939f019fd8e6054ad8fbb6eadb454
 Merge: c1f1ffa 7b1c39f
