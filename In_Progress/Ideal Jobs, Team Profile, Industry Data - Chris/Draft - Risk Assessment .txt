@@ -1,0 +1,97 @@
+Simple </b> - Risk Assessment 
+
+Potential exposures to risk 
+Legislative risk
+1)	Education Services For Overseas Student Act 2000 (ESOS ACT)
+
+As the enrolled students will not be eligible to apply for an overseas student visa, this Act is irrelevant at this stage. 
+
+2)	The Competition and Consumer Act 2010
+The Act promotes fair trading between competitors and ensures customers are treated fairly. ACCC administrates and enforces the Act. 
+(https://www.accc.gov.au/publications/small-business-the-competition-and-consumer-act) 
+3)	State and territory regulations, in addition to the federal laws. 
+(https://www.business.gov.au/Products-and-services/Fair-trading/Fair-trading-laws) 
+4)	Registration of an Australian Business Number (ABN)
+5)	If required, we will need to register for GST and PAYG withholding 
+For further information, please refer to the Australian Government website (https://www.business.gov.au/planning/new-businesses/legal-essentials-for-business) 
+
+Human resource risk
+1)	10 National Employment Standards (NES), which includes:
+a)	Maximum weekly hours
+b)	Flexible working arrangements
+c)	Parental leave & related entitlements
+d)	Annual leave
+e)	Personal/carer’s leave, compassionate leave and domestic violence leave
+f)	Community service leave
+g)	Long service leave
+h)	Public holidays
+i)	Notice of termination and redundancy pay
+j)	Provision of Fair Work Information Statement 
+
+2)	Payroll tax 
+a)	VIC – 650,000 annually and monthly thresholds of 54,166, or else 4.85%
+b)	NSW – 1m annually, or else 5.45%. 
+c)	QLD – 1.3m annually and 108,333 monthly, or else 4.75%.
+d)	SA – 1.5 m annually, or else 4.95%. 
+
+3)	Potential shortage of human capitals. 
+Operational risk
+		
+Data privacy risk
+Copyright
+
+Under the provision of The Copyright Act 1968 (Cth), a work is automatically covered when it is created. No registration is required. The copyright allows the owner to reproduce, publish or communicate the work. 
+
+*The Act mentioned in the subsequent paragraphs under this subclause is referring to The Copyright Act 1968 unless otherwise specified. 
+
+As defined in section 31 (1) (d) of the Act, the owner of the work can enter into a commercial rental arrangement in respect to the program. Incorporating section 31 (3) of the Act, machinery or device in which a computer program is embodied will not be extended to under this Act. 
+
+The duration of coverage under this Act is 70 years after the calendar year in which the author of the work died. 
+
+However, it should be duly noted that the Act protects the work and investment of procedures, not the underlying ideas or information. 
+
+Please also be made aware that under section 40 of the Act, actions taken for the purpose of research or study does not constitute an infringement of the copyright. A list of reasonable portions of adaptation can be found under section 40 (5); The exhausting list of exemptions can be found under Division 3 of the Act. 
+
+Privacy Act 1988 & Australian Privacy Principles (APPs)
+An APP entity must have a clearly expressed and up-to-date policy about the management and usage of personal information. 
+
+The management and usage of personal information include, but not limited to:
+1)	The kinds of personal information collected and held
+2)	How the information been collected and held
+3)	How the individual may access the information collected and held 
+4)	The purpose of the collection holds and uses of personal information. The scope of which an entity can access and store personal data will be limited to the entity’s reasonable necessity of the functions and/or activities. 
+5)	How complaints will be handled by the entity
+6)	The likelihood of the information made available to overseas recipients
+
+For further information regarding the Privacy Act 1988 and the Australian Privacy Principles (APPs), please refer to the Australian Government Office of the Australian Information Commissioner website: https://www.oaic.gov.au/privacy/australian-privacy-principles/read-the-australian-privacy-principles and https://www.legislation.gov.au/Details/C2020C00168. 
+
+Infrastructural risk
+1)	Internet outage 
+2)	Power outage
+3)	Variations in uploading & downloading speeds
+
+Financial risk
+1)	Tier-base sponsorship
+2)	Discontinuing of the existing sponsor(s)
+3)	Conflict of interest(s)
+4)	Taxation liabilities – Where shall the headquarter be. 
+5)	How will we charge the user, PAYG-based or subscription-based? 
+
+Rivalries
+The players in the online learning management systems (LMS) are Blackboard, Desire2Learn, OpenClass and Moodle. 
+
+Massive Open Online Courses (MOOCs) are key rivalries to our business, as some of the platforms do not charge students for enrolment fees. Some major players of MOOCs are Udacity, Coursera, Udemy, Class2Go, edX, Saylor Foundation and Google CourseBuilder. 
+
+Credentialing
+
+Many online learning companies are partnering with formal education institutions for transferable accreditations. If students not only desire to gain the knowledge through our platform but also receive a degree after rigorous training, it is crucial to partner with reputable TAFEs or universities in Australia and New Zealand for credentialing and fraud-less assessment system. 
+
+It is important to note that, however, the traditional educational system is no longer the monopoly in the education sector. In fact, 68% of Americans aged 18-30 believe employers are indifferent between online and traditional degree.1 (Landry, 2012) 
+
+Assessment of the severity of each risk
+Manage the risk
+Monitor and Audit 
+
+
+
+1.	Landry L., 2012. New Northeastern Survey Reveals – Higher Education Needs Innovation – Now. https://www.americaninno.com/boston/new-northeastern-survey-reveals-higher-education-needs-innovation-now/. Retrieved on the 23rd of July. 
