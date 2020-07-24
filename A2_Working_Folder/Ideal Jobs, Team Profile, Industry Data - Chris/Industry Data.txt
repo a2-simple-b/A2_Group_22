@@ -1,0 +1,30 @@
+For our group, the three ideal jobs that most of our group mates resonate with are systems engineer, systems administrator and software developer. According to the data supplied by Burning Glass Technologies, the three ideal jobs were in the 98.5, 96.5 and 91 percentiles of the IT jobs in March 2018. According to the Australian Government – Job Outlook website, both the Software & Applications Programmers and Systems Administrators categories indicate a robust future growth with great weekly pay.1 These statistics can prove that the ideal jobs we are aiming for in the IT industry provide a stable career path with high demands in the present and future labour markets. 
+
+Graph here (IT Industry Data – Graph 1)
+Screenshots here (Future job growth 1 & 2)
+
+According to the required IT-specific skills for our ideal jobs, Java, Microsoft Windows, Linux and C++ ranked the highest in terms of demand from the employers. It can be interpreted that the ability to write different computing languages and experience in using different operating systems will make you a highly competitive professional. Other required skill sets that are not quite in demand are the experience in VPN, Hyper-V and VMware ESXi. 
+
+The highest-ranking IT-specific skills that are not in our necessary expertise are SAP, Oracle and Git.  For a visual interpretation of the competitiveness of required skill sets, please refer to the diagram below for the ranking and respective percentiles. 
+
+Graph here (IT Industry Data – Graph 2)
+
+Apart from the required IT-specific skillsets for the ideal jobs, some general soft skills are equally important. For our ideal jobs, having the ability to solve clients’ issues and last-minute obstacles through investigation and critical-analyse is crucial. Those three skills ranked at the 96, 92.5 and 78 percentiles and can be deemed as high demand from employers for the foreseeable future. 
+
+While communication, writing and organisational skills are the highest demands of general skills that a potential employer wants, those are not the particular skills that are required for our job requirements. 
+
+Graph here (IT Industry Data – Graph 3)
+
+After investigating the available data, our opinion in what career paths we wish to pursue had not changed. The team members who will seek to be a developer or administration position have knowledge in coding and exposure with different operating systems. Once they went through the degree with RMIT, the necessary technical skill sets in high demand will be acquired. 
+
+From working through the assignment together, it is proven that the teammates have soft critical skills such as problem-solving and analytical skills. As the expertise is perfectly aligned with the future demands for IT-related positions, we believe that the ideal jobs provide a stable career path for future growth.
+
+While the demand for usual jobs like software developers and systems engineers are on the rise, an avalanche of new technologies and surging globalisation are reshaping the future needs in the IT industry. As Amanda Mclntyre – Consulting Partner, PwC Australia pointed out, creativity, cognitive flexibility and negotiation skills are going to be highly desirable to meet the ever-changing market. It is vital to not only looking at past data to be job-ready but also analyse what new jobs will emerge and subsequently, will we still be competitive in 5 to 10 years .2 
+
+
+
+Reference:
+
+10 Skills You Need For Future Employment, PwC Australia. https://www.pwc.com.au/careers/blog/future-employment.html. Retrieved on the 17th of July 2020. 
+
+JobOutlook, Australian Government. https://joboutlook.gov.au/Default. Retrieved on the 16th of July 2020. 

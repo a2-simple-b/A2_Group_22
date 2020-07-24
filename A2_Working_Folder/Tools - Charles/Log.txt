@@ -1,0 +1,32 @@
++1/7/20: Team meeting held, discussed: 
+- Background in IT (if any)
+- Availibility
+- Team name decided
+- Tool use for the assessment
+- Allocation of team member roles
+- Next meeting date
+1/7/20: Setup GitHub Organisation repo for team, invited all team members, and notified team to check their emails for the invitation
+4/7/20: Had issues with combining GitHub with OneDrive (Using OneDrive as a backup across computers) - This failed completely, issue was fixed by removing OneDrive entirely.
+5/7/20: Team meeting held, discussed:
+- Possible new group member
+- Refining job roles
+5/7/20: Ian setup profile images folder for team members to upload their photos on the repo
+5/7/20: Jayden proposed ideas for creation of machine learning with strategies
+5/7/20: Setup a google doc link in the groups repo to allow for live collaboration on text files, this was a quick fix for those who where having issues with editing files on the repo.
+6/7/20: Jess notified me that she was able to do the interview
+7/7/20: Jess reported that she was having trouble with uploading the audio file to the GitHub, after some investigation I found it was due to the GitHub Organisation permissions/roles that have been setup.
+8/7/20: Team voted on AI Tutor for Project Idea
+8/7/20: Possible new team member?
+10/7/20: Added Jess' transcript from the IT Interview into the repo
+11/07/20: Merged IT Work Audio file from Jess into the repo
+11/07/20: Updated Ian with profile picture for the website
+11/07/20: Issues with GitHub, files are being deleted upon upload. Investigating.
+11/07/20: Applied some formatting to Jess' contribution in HTML to help Ian.
+12/07/20: Taken on the task to finish Jess' transcription for IT work section
+12/07/20: Fixed some grammar issues and formatting in IT Technologies (HTML)
+13/07/20: Formatted IT Work with CSS, created a table that allows for easy view of the conversation between both parties.
+13/07/20: Added Signature to Contributions form
+14/07/20: Designed layout for "Groupreflection.html" added css and html
+14/07/20: Added jess' signature to contributions form
+14/07/20: Fixed rogue pixel in simple b logo
+15/07/20: Offered Jayden some assitance with his works, checked grammar and punctuation.

@@ -1,0 +1,2157 @@
+commit e7a2f7fc3e9ae4d66d85eaa4002eb7dad48d7252
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sat Jul 18 21:15:24 2020 +1000
+
+    PDF in progress
+
+commit 686f37f15b2149f44cc017dbc54eb225a1a82fd7
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sat Jul 18 19:11:40 2020 +1000
+
+    PDF in progress + round logo
+
+commit 6b18d5cec84939f019fd8e6054ad8fbb6eadb454
+Merge: c1f1ffa 7b1c39f
+Author: charles2075 <charles.patterson1@hotmail.com>
+Date:   Sat Jul 18 18:34:07 2020 +1000
+
+    Merge branch 'master' of https://github.com/a2-simple-b/A2_Group_22
+
+commit c1f1ffa0827ec0d8911f0738005df71418628137
+Author: charles2075 <charles.patterson1@hotmail.com>
+Date:   Sat Jul 18 18:34:02 2020 +1000
+
+    Update
+
+commit 7b1c39f95e5a53d2f381f3acb703c6732079207f
+Merge: 5920ef8 a6cf781
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sat Jul 18 18:31:53 2020 +1000
+
+    Merge branch 'master' of https://github.com/a2-simple-b/A2_Group_22
+
+commit 5920ef803487ecc7d0813ee9a2fc1809b0380e72
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sat Jul 18 18:31:44 2020 +1000
+
+    PDF in progress
+
+commit a6cf7812fee2501f121f134da899e64b85d0317c
+Merge: 4e326fb c6a4b72
+Author: charles2075 <charles.patterson1@hotmail.com>
+Date:   Sat Jul 18 18:04:58 2020 +1000
+
+    Merge branch 'master' of https://github.com/a2-simple-b/A2_Group_22
+
+commit 4e326fb9365880afc2e292ca1a6fa72269f339b1
+Author: charles2075 <charles.patterson1@hotmail.com>
+Date:   Sat Jul 18 18:04:54 2020 +1000
+
+    Reflection update
+
+commit c6a4b722e4f6bb577d59c388470c01e306a01c8a
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sat Jul 18 17:44:35 2020 +1000
+
+    PDF
+    
+    PDF
+
+commit b0aeb4de2acd3d83000a90c4626eacf46612af2c
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sat Jul 18 17:24:57 2020 +1000
+
+    PDF report in progress
+
+commit 79e5e354a27c434c92d0dabc2d8f5a6589cb932e
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sat Jul 18 15:59:45 2020 +1000
+
+    PDF in progress
+
+commit a401d32ad9930da4e57a632a7ac362fbc847daec
+Merge: 3730f76 24f2c69
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sat Jul 18 15:57:50 2020 +1000
+
+    Merge branch 'Jaydens_Branch'
+
+commit 3730f7673c55be9b2f00586ca4759021f6511196
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sat Jul 18 15:57:16 2020 +1000
+
+    Update PDF_Report_A22.odt
+
+commit 24f2c69c1b40f56e226641656d2d54c7e0b6c93a
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sat Jul 18 15:56:10 2020 +1000
+
+    Update PDF_Report_A22.odt
+
+commit 39f27c756b200a53c3776425e7a45e1979b8fdc7
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sat Jul 18 15:54:04 2020 +1000
+
+    PDF report progress
+
+commit 3165200c844ad889027877dcc42913a59c094a51
+Author: PioneerTechnologist <67222794+PioneerTechnologist@users.noreply.github.com>
+Date:   Sat Jul 18 08:42:10 2020 +1000
+
+    Create Robots.txt
+
+commit 39726b0aa77b8a91cd1325ae6fcdb467efbcb28e
+Merge: 14581ff 596228d
+Author: chrislai001 <66664359+chrislai001@users.noreply.github.com>
+Date:   Fri Jul 17 21:44:12 2020 +1000
+
+    Merge branch 'master' of https://github.com/a2-simple-b/A2_Group_22
+
+commit 14581ffe995a514b5f6f4fa06a473aff546dc2c8
+Author: chrislai001 <66664359+chrislai001@users.noreply.github.com>
+Date:   Fri Jul 17 21:42:33 2020 +1000
+
+    Updates on Industry Data
+
+commit 596228dcd74256e2f074687b495cc38c517d655e
+Merge: b56bead bcf0c91
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Fri Jul 17 18:43:38 2020 +1000
+
+    Merge branch 'master' of https://github.com/a2-simple-b/A2_Group_22
+
+commit b56beada0b101d0cc189d71d667262c027da1727
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Fri Jul 17 18:43:34 2020 +1000
+
+    Update index.html
+    
+    Meeting minutes
+
+commit bcf0c9170651256130a0db216e399d85b8368d28
+Author: charles2075 <charles.patterson1@hotmail.com>
+Date:   Fri Jul 17 18:22:01 2020 +1000
+
+    Update groupreflection.html
+    
+    Updated Chris Reflection
+
+commit dcd1db004187f7051335930d3449855510edb3fb
+Merge: a148729 f64b0ca
+Author: charles2075 <charles.patterson1@hotmail.com>
+Date:   Fri Jul 17 18:17:29 2020 +1000
+
+    Merge branch 'Charles_branch'
+
+commit f64b0ca9a8ef17b1c9088c8c203a635bbbdfc5f2
+Author: charles2075 <charles.patterson1@hotmail.com>
+Date:   Fri Jul 17 18:16:11 2020 +1000
+
+    Update A2_ContributionsForm.pdf
+
+commit a14872982dcfe50411e81138eda9da7862bc5288
+Merge: 706be3b a845333
+Author: charles2075 <charles.patterson1@hotmail.com>
+Date:   Fri Jul 17 18:12:39 2020 +1000
+
+    Merge branch 'Charles_branch'
+
+commit a8453332e6a7d3170116f6b98b039672f2296c87
+Author: charles2075 <charles.patterson1@hotmail.com>
+Date:   Fri Jul 17 18:12:32 2020 +1000
+
+    Update
+
+commit 706be3b4744c218e04793a041004e6ec8ab86570
+Merge: b006036 01bc746
+Author: chrislai001 <66664359+chrislai001@users.noreply.github.com>
+Date:   Fri Jul 17 18:06:09 2020 +1000
+
+    Merge branch 'Chris_branch'
+
+commit b006036f650adaf33ea265a1589860dc37173685
+Author: charles2075 <charles.patterson1@hotmail.com>
+Date:   Fri Jul 17 17:12:20 2020 +1000
+
+    Draft group reflection
+
+commit 01bc74678b63d5deb5b022cfd2077f83db8d044b
+Author: chrislai001 <66664359+chrislai001@users.noreply.github.com>
+Date:   Fri Jul 17 15:08:10 2020 +1000
+
+    Industry data - Graph & photos
+
+commit 170a46db749d3e1ec870bb41aca117589c861e46
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Fri Jul 17 13:21:16 2020 +1000
+
+    Update index.html
+
+commit ceea584cb99a0dcda90b4f68a108f82b77b95d46
+Author: chrislai001 <66664359+chrislai001@users.noreply.github.com>
+Date:   Fri Jul 17 13:18:37 2020 +1000
+
+    Group reflection
+
+commit 3bb07ce5f8acf2e61921a9fe0d798c3e91035b6b
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Fri Jul 17 12:56:17 2020 +1000
+
+    Update index.html
+
+commit 9414c1ccba5ef7341bc5eed2e1b5aa2de61c117a
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Fri Jul 17 12:55:37 2020 +1000
+
+    Update index.html
+    
+    agenda item
+
+commit bd1f125cdd879e073850dd75faa759a31f9eaeed
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Fri Jul 17 11:57:43 2020 +1000
+
+    Update index.html
+
+commit 9997b85ac276415069d2730a47bea6f48d8c552f
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Fri Jul 17 11:51:23 2020 +1000
+
+    Update drafts.html
+
+commit 0e3d58e5be527deb3a329e2bdf874ea93a1adf1b
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Fri Jul 17 11:37:39 2020 +1000
+
+    Update index.html
+    
+    meta
+
+commit 98ea61b88c044474869f9ada2b5ca08d8e8e4302
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Fri Jul 17 11:31:03 2020 +1000
+
+    Update index.html
+    
+    Restructed timeline to most recent-->oldest items
+
+commit e0f5408b1963150fca5e4e3e0e17bc97c55c9d49
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Fri Jul 17 10:50:22 2020 +1000
+
+    Update index.html
+    
+    html reference
+
+commit 6436764eac0ff98342777871c598a103ea0c9b35
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Fri Jul 17 10:48:43 2020 +1000
+
+    Update index.html
+    
+    Include task 7.2.1 Task: Write a report for your company
+
+commit fdf804492bb24bfb2bd520f850c2c32d202a96cb
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Fri Jul 17 09:45:31 2020 +1000
+
+    Update index.html
+
+commit 7e62d0e61c9bda974197d52c1f9b08dd47c008e8
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Fri Jul 17 09:44:25 2020 +1000
+
+    Agenda for meetin 17072020
+
+commit abd0ff12185e4559f1128751e3dba51d9c245be5
+Author: charles2075 <charles.patterson1@hotmail.com>
+Date:   Thu Jul 16 16:43:10 2020 +1000
+
+    Update A2_ContributionsForm.pdf
+
+commit 3fa3335102fa414671b905c86a23e47bf64d8369
+Merge: 5232419 b9aeb7a
+Author: charles2075 <charles.patterson1@hotmail.com>
+Date:   Wed Jul 15 18:55:43 2020 +1000
+
+    Merge branch 'master' of https://github.com/a2-simple-b/A2_Group_22
+
+commit 5232419e7a86d4fbe21aa9bfbc5ffc6856edf982
+Author: charles2075 <charles.patterson1@hotmail.com>
+Date:   Wed Jul 15 18:55:38 2020 +1000
+
+    Meeting Minutes
+
+commit cf7acf893ba271b254d8b6702d254269609b31c5
+Author: PioneerTechnologist <67222794+PioneerTechnologist@users.noreply.github.com>
+Date:   Wed Jul 15 18:25:19 2020 +1000
+
+    Update Cybersecurity.txt
+
+commit 4b62ce2783daa4f0bbe5fe755226e32356ec09d2
+Author: PioneerTechnologist <67222794+PioneerTechnologist@users.noreply.github.com>
+Date:   Wed Jul 15 18:24:18 2020 +1000
+
+    Update Machine Learning.txt
+
+commit b9aeb7a1e7c1238c4245e607bf8e920025b45980
+Merge: 845f68a db31e99
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Wed Jul 15 17:31:00 2020 +1000
+
+    Merge branch 'master' of https://github.com/a2-simple-b/A2_Group_22
+
+commit 845f68a53ba0a73c20a911d1a5ec1b99540fb6d9
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Wed Jul 15 17:30:38 2020 +1000
+
+    PDF report update
+
+commit db31e990d19366e60bea234fbf85e1cf61ecc9d1
+Merge: 4e0768e 35230a2
+Author: PioneerTechnologist <67222794+PioneerTechnologist@users.noreply.github.com>
+Date:   Wed Jul 15 17:29:08 2020 +1000
+
+    Merge pull request #6 from a2-simple-b/Jaydens_Branch
+    
+    Update Autonomous Vehicles.txt
+
+commit 35230a22bdc9dc862075f3470909ac2c57562a70
+Author: PioneerTechnologist <67222794+PioneerTechnologist@users.noreply.github.com>
+Date:   Wed Jul 15 17:28:39 2020 +1000
+
+    Update Autonomous Vehicles.txt
+
+commit 419166d1f2060624212b295c3ba0e3aa3449336e
+Author: chrislai001 <66664359+chrislai001@users.noreply.github.com>
+Date:   Wed Jul 15 17:12:29 2020 +1000
+
+    Industry Data
+
+commit 4e0768e69a564e7561c413b52e619da9202b2ac7
+Author: charles2075 <charles.patterson1@hotmail.com>
+Date:   Wed Jul 15 17:01:02 2020 +1000
+
+    Update
+
+commit 406a0a5a530de562a52f5f0045eb62e054c0421c
+Author: charles2075 <charles.patterson1@hotmail.com>
+Date:   Wed Jul 15 16:50:49 2020 +1000
+
+    Fixed grammar errors
+
+commit 767a1b77299281f885705ff6289796ee71c6d6ef
+Author: charles2075 <charles.patterson1@hotmail.com>
+Date:   Tue Jul 14 21:13:33 2020 +1000
+
+    Fixed random pixel
+
+commit 20699eba820f77f9e2c18887d88cae5f50343251
+Author: charles2075 <charles.patterson1@hotmail.com>
+Date:   Tue Jul 14 20:45:12 2020 +1000
+
+    Updated Contributions with Jess' signature
+    
+    Attempted adding block quotes to wrap around images, has issues to reverted back to previous. May need to create some custom css to mimic <blockquote>
+
+commit b82b21c04c070ce1f728ecb3493dabdf1ce10d9a
+Merge: 642e8b7 c5952f9
+Author: Jove <65845731+Jove2001@users.noreply.github.com>
+Date:   Tue Jul 14 20:06:54 2020 +1000
+
+    Merge pull request #5 from RMITjess/patch-1
+    
+    Create Jess.txt
+
+commit 642e8b7fce0fcf8c60cdf1a203ec7221e7bddcac
+Author: charles2075 <charles.patterson1@hotmail.com>
+Date:   Tue Jul 14 20:00:41 2020 +1000
+
+    Group reflection update + CSS update
+
+commit c5952f9a6e17d20355fda7481bb9516c9fa0f57b
+Author: RMITjess <66515974+RMITjess@users.noreply.github.com>
+Date:   Tue Jul 14 19:25:48 2020 +0930
+
+    Create Jess.txt
+    
+    Jess group reflection
+
+commit 0d9746645cf65222e11db07b7e955f53f8fa86db
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Mon Jul 13 22:18:49 2020 +1000
+
+    Update index.html
+
+commit 7179392404a503eb0a37266e1e6b714b2cfffe48
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Mon Jul 13 22:17:56 2020 +1000
+
+    Report in progress + agenda items
+
+commit b2bc1bac42c866afdc04a84f1cde961cecd65308
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Mon Jul 13 22:06:08 2020 +1000
+
+    Update A2_ContributionsForm.pdf
+    
+    Signed by Ian
+
+commit fba3b95fdd5514b0e316a12332e32e5dfca9505c
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Mon Jul 13 21:50:08 2020 +1000
+
+    PDF work + latest pages
+    
+    Current PDF work
+
+commit eec4dac606d63783c010d6ba6aac621ae2878d43
+Author: charles2075 <charles.patterson1@hotmail.com>
+Date:   Mon Jul 13 21:19:25 2020 +1000
+
+    Update Log.txt
+
+commit 05c6785050c247477269b78dd3956cb77376ce14
+Author: charles2075 <charles.patterson1@hotmail.com>
+Date:   Mon Jul 13 21:18:42 2020 +1000
+
+    Added Signature
+
+commit 80b7df1e8a60710a59f2038663639f9e7d6b1841
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Mon Jul 13 20:52:13 2020 +1000
+
+    Update index.html
+    
+    Update agenda 5. Update task progress
+
+commit 2c1070b6cb07f46b618f9718e33fbb6b4a07500f
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Mon Jul 13 20:45:26 2020 +1000
+
+    Update A2_ContributionsForm.pdf
+
+commit e6d3bb65705cc7c3ab953496bcd4eed4db67a69c
+Author: charles2075 <charles.patterson1@hotmail.com>
+Date:   Mon Jul 13 18:58:03 2020 +1000
+
+    IT Work Update
+    
+    Created CSS which makes the Transcript to be easily read. Formatting was included.
+
+commit 5763dcc4ef63d91ff1a495f921e210cc0540863b
+Merge: 170c64c 81cc9a8
+Author: charles2075 <charles.patterson1@hotmail.com>
+Date:   Mon Jul 13 17:41:51 2020 +1000
+
+    Merge branch 'master' into Charles_branch
+
+commit 170c64ce08d49fc90e549e578dc420b77f8ea634
+Author: charles2075 <charles.patterson1@hotmail.com>
+Date:   Mon Jul 13 17:39:21 2020 +1000
+
+    Log update
+
+commit 3a27282b68c4c4b034b7b282f605cc46943b87d1
+Author: charles2075 <charles.patterson1@hotmail.com>
+Date:   Mon Jul 13 17:38:30 2020 +1000
+
+    Update Log.txt
+
+commit 81cc9a83484a962670df50dfdc4d44429e8179c6
+Merge: 0a9dc2f 7596795
+Author: charles2075 <charles.patterson1@hotmail.com>
+Date:   Mon Jul 13 17:37:47 2020 +1000
+
+    Merge branch 'master' of https://github.com/a2-simple-b/A2_Group_22
+
+commit 7596795d3e8669f92b7bd196b4e4ce5bf47d3d2b
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sun Jul 12 23:27:56 2020 +1000
+
+    Update Intro_to_IT_Staff_List.png
+    
+    Censored surnames
+
+commit 7509adf7c1704b08ae82dc77d9a416fcbca4fa73
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sun Jul 12 23:13:35 2020 +1000
+
+    Move image to image folder
+
+commit 2a566b6c4c6bd628241ee0a4d9ae9bf96565d305
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sun Jul 12 23:09:37 2020 +1000
+
+    Update gitlog.txt
+
+commit 956ef8aa9f3f8acffe486378ded3fddf1e683e88
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sun Jul 12 23:06:05 2020 +1000
+
+    Update index.html
+    
+    Meeting minutes
+
+commit bfe0b115369a238951ac14c78086c85ad7aae2dc
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sun Jul 12 22:12:20 2020 +1000
+
+    Update projectidea.html
+
+commit c77e91192eb9224c48bc10e796e8b426de740e1f
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sun Jul 12 21:57:10 2020 +1000
+
+    Create Intro_to_IT_Staff_List.png
+
+commit 433460e3deaee99bbc91d5fdcf62bf19e5f5c12c
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sun Jul 12 21:38:53 2020 +1000
+
+    Update index.html
+
+commit 44953a8add89474519d19267a872e30e175771de
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sun Jul 12 20:45:46 2020 +1000
+
+    Update from working folder
+
+commit 95df3cc3dfbd2bdca5dfb3134fe7c93feed706c0
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sun Jul 12 20:41:26 2020 +1000
+
+    PDF report work
+
+commit ae8391e1db163d56560f721a2b05226ad489f2c7
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sun Jul 12 20:34:43 2020 +1000
+
+    Work on report
+    
+    Work on report
+
+commit 83f57b84a6a5b868088ebb4e9f4594c0a231ff2a
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sun Jul 12 20:16:02 2020 +1000
+
+    Update index.html
+
+commit b0c4e09ed9cc67d56a6a681aa99b28a8999e1272
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sun Jul 12 20:09:08 2020 +1000
+
+    Update index.html
+    
+    Meeting minutes
+
+commit 0a9dc2f593cfad377dcfd312908a0923afda7327
+Merge: 8b4bb5e ce0f138
+Author: charles2075 <charles.patterson1@hotmail.com>
+Date:   Sun Jul 12 18:25:24 2020 +1000
+
+    Merge branch 'master' of https://github.com/a2-simple-b/A2_Group_22
+
+commit ce0f138c1a8115e1e3cfe1433028ce0341b187cf
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sun Jul 12 17:55:21 2020 +1000
+
+    Create Intro_to_IT_Staff_List.png
+
+commit d2a41bd76d59897712e4c99d2281b9d9eaff772e
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sun Jul 12 17:50:33 2020 +1000
+
+    Update projectidea.html
+
+commit 8b4bb5e2c9341243699a0c5603640fb4e6c429c8
+Merge: cde6590 f05ee3d
+Author: charles2075 <charles.patterson1@hotmail.com>
+Date:   Sun Jul 12 17:14:13 2020 +1000
+
+    Merge branch 'master' of https://github.com/a2-simple-b/A2_Group_22
+
+commit cde6590515039540ac4a1dfb562de3d02a804411
+Author: charles2075 <charles.patterson1@hotmail.com>
+Date:   Sun Jul 12 17:14:01 2020 +1000
+
+    Formatting and Grammer fix
+
+commit f05ee3db7890b0dc6697dff031fc3b0ce9bf6b4d
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sun Jul 12 16:48:23 2020 +1000
+
+    Update itwork.html
+    
+    Style
+
+commit 8afbd6c21ad20c3826038592a1155c6335705185
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sun Jul 12 16:45:53 2020 +1000
+
+    Update itwork.html
+    
+    Formatted header
+
+commit 4bc2d95a738e30500b12277567262267449b18bb
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sun Jul 12 16:35:02 2020 +1000
+
+    Clean up old images in website
+
+commit ce50314bbe2290b46f672e6a3e911ec1f8869a66
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sun Jul 12 16:06:38 2020 +1000
+
+    Meeting agenda 3 html links to work in progress
+
+commit 513a4672f875abf2abba368c372887e37d6d6520
+Merge: 09f8cba 9e9057b
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sun Jul 12 15:52:13 2020 +1000
+
+    Merge branch 'master' of https://github.com/a2-simple-b/A2_Group_22
+
+commit 09f8cbaebbf0b38bd3745a64a5b035c34970201e
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sun Jul 12 15:52:08 2020 +1000
+
+    Update index.html
+    
+    Meeting #4 agenda items
+
+commit 9e9057b58c502f827d6d256408f8ac40814085d9
+Merge: be942d9 baf2317
+Author: PioneerTechnologist <67222794+PioneerTechnologist@users.noreply.github.com>
+Date:   Sun Jul 12 15:38:31 2020 +1000
+
+    Merge pull request #4 from a2-simple-b/Jaydens_Branch
+    
+    Update Autonomous Vehicles.txt
+
+commit baf231753f7bcb1ce7bc2ce85eab29f60defa3bc
+Author: PioneerTechnologist <67222794+PioneerTechnologist@users.noreply.github.com>
+Date:   Sun Jul 12 15:38:03 2020 +1000
+
+    Update Autonomous Vehicles.txt
+
+commit be942d979e30936d7ba41cfad419f1ecada02b5a
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sun Jul 12 14:55:34 2020 +1000
+
+    Include Jaydens profile pic
+
+commit ca9fcd80b4daf98347ab77dc2764c3d3b41a0209
+Merge: 7d3a0a6 ef74599
+Author: PioneerTechnologist <67222794+PioneerTechnologist@users.noreply.github.com>
+Date:   Sun Jul 12 12:12:36 2020 +1000
+
+    Merge pull request #3 from a2-simple-b/Jaydens_Branch
+    
+    Create Autonomous Vehicles.txt
+
+commit ef74599e3888decc56d24319dfdb653b61d00e63
+Author: PioneerTechnologist <67222794+PioneerTechnologist@users.noreply.github.com>
+Date:   Sun Jul 12 12:06:35 2020 +1000
+
+    Create Autonomous Vehicles.txt
+
+commit 7d3a0a66b8b3b13d560b9362ce74e83c4acc4e3f
+Merge: 4c7c2c5 ed56cf6
+Author: charles2075 <charles.patterson1@hotmail.com>
+Date:   Sun Jul 12 00:42:10 2020 +1000
+
+    Merge remote-tracking branch 'origin/Chris_branch'
+
+commit ed56cf69bc0a817393ab19ffe27a4d3d1d1f709d
+Author: chrislai001 <66664359+chrislai001@users.noreply.github.com>
+Date:   Sat Jul 11 18:24:46 2020 +1000
+
+    Updated version of the team & personal profile
+
+commit 4c7c2c5144178646286af4d5d8242d224d5679c0
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sat Jul 11 17:39:03 2020 +1000
+
+    Bad group reflection menu link fixed
+
+commit 478504bd91b5bde4114c1d083b574061b209db92
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sat Jul 11 17:36:12 2020 +1000
+
+    Update itwork.html
+
+commit a342965d725bc2da86dfbe3559c5f35264dc27a9
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sat Jul 11 17:32:50 2020 +1000
+
+    Rolled back changes to itwork.html
+
+commit 5ad3316e5e8930b7ae7b9e2974eeab39b7b3ae24
+Merge: a7b918f 7746a76
+Author: charles2075 <charles.patterson1@hotmail.com>
+Date:   Sat Jul 11 17:13:01 2020 +1000
+
+    Merge branch 'master' of https://github.com/a2-simple-b/A2_Group_22
+
+commit a7b918f7bf25c935059dddadd71e4a57acf919e9
+Author: charles2075 <charles.patterson1@hotmail.com>
+Date:   Sat Jul 11 17:12:43 2020 +1000
+
+    Create Group Reflection - Charles.docx
+
+commit 7746a76c827b4deeafafc203d2be35ea3ad2c87b
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sat Jul 11 13:35:24 2020 +1000
+
+    Update Charles_Profile.png
+
+commit 57feab924b969bad1bfcf1798ab5e1c0fd007492
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sat Jul 11 13:33:20 2020 +1000
+
+    Delete project_idea.html
+
+commit 4fdcf7ba7fb39cbda4445d11cc82bf0cbd72b674
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sat Jul 11 13:32:38 2020 +1000
+
+    Menus and content
+
+commit 9e9e52cbb72e9b1464b1d4ea3d2d213e6c8fafe0
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sat Jul 11 12:49:28 2020 +1000
+
+    correct links  to pages
+
+commit da32608fd467aa3eb1f6407749b584bdb2dfdb84
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sat Jul 11 12:34:33 2020 +1000
+
+    correct page links and include favicon
+
+commit e8547a4e19e0b0634fd6e457bcede48f76df7027
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sat Jul 11 12:16:17 2020 +1000
+
+    Link all content pages
+
+commit c333406e421f15c4b55de33aaf75dac90e7347d1
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sat Jul 11 12:08:12 2020 +1000
+
+    Created pages for content with menu links
+
+commit 13780e4a9c40fe97aa7e8c9965a48350e8d1c601
+Author: charles2075 <charles.patterson1@hotmail.com>
+Date:   Sat Jul 11 11:54:14 2020 +1000
+
+    Updated error
+
+commit 0ec227e82a5fbdaac26cff7c565072646ecd3366
+Merge: 2825065 3412ab2
+Author: charles2075 <charles.patterson1@hotmail.com>
+Date:   Sat Jul 11 11:49:41 2020 +1000
+
+    Merge branch 'Charles_branch' of https://github.com/a2-simple-b/A2_Group_22 into Charles_branch
+
+commit 2825065d9989cb78ce19b0d59464cd1c68f9c0f7
+Author: charles2075 <charles.patterson1@hotmail.com>
+Date:   Sat Jul 11 11:49:03 2020 +1000
+
+    Formatted IT Work
+
+commit eb2a313ecce134362bbfeeccdca8386e04a22cef
+Merge: ea60ec5 557ee7d
+Author: charles2075 <charles.patterson1@hotmail.com>
+Date:   Sat Jul 11 11:34:11 2020 +1000
+
+    Merge branch 'master' into Charles_branch
+
+commit 3412ab2b8dd3e1e7b803743c8bbecf1ee3544372
+Merge: ea60ec5 eb69f9c
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sat Jul 11 11:33:35 2020 +1000
+
+    Merge branch 'master' into Charles_branch
+
+commit 557ee7de65c048b4750103a2a235d46f7f8a4592
+Merge: 2379ca7 b8e6d8d
+Author: charles2075 <charles.patterson1@hotmail.com>
+Date:   Sat Jul 11 11:26:06 2020 +1000
+
+    Merge branch 'Chris_branch'
+
+commit 2379ca7a6b6afa596e53b78f7e44f4d6c1b56a67
+Merge: eddde9c eb69f9c
+Author: charles2075 <charles.patterson1@hotmail.com>
+Date:   Sat Jul 11 11:23:03 2020 +1000
+
+    Merge branch 'master' of https://github.com/a2-simple-b/A2_Group_22
+
+commit eb69f9cf2a1cde64671e6a927a909c3bcf4ec083
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sat Jul 11 11:20:12 2020 +1000
+
+    Update Interview_with_Rene_Cocks-06072020.mp3
+    
+    Adjusted gain and applied some compression
+
+commit b8e6d8db371d1d8660a2e83b128015d631ea4711
+Merge: e9c0362 8e4c5f3
+Author: chrislai001 <66664359+chrislai001@users.noreply.github.com>
+Date:   Sat Jul 11 10:59:39 2020 +1000
+
+    Merge branch 'Chris_branch' of https://github.com/a2-simple-b/A2_Group_22 into Chris_branch
+
+commit e9c036261e900961ce2caefb5a0aea18e0ea0130
+Author: chrislai001 <66664359+chrislai001@users.noreply.github.com>
+Date:   Sat Jul 11 10:59:33 2020 +1000
+
+    Venn Diagram (Personalities) & Idea Jobs
+
+commit 97430138950ff48ff12abd55c1024a89aa84094d
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sat Jul 11 10:53:03 2020 +1000
+
+    It work section with audio
+
+commit 4d759bb26a9a0099b59a2c8acefa3857e10384c2
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sat Jul 11 10:33:50 2020 +1000
+
+    Create itwork.html
+
+commit ea60ec5ed6c7afbc765d80b25ab306b4ac1096ec
+Merge: b0179f1 0d6c8e1
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sat Jul 11 10:26:52 2020 +1000
+
+    Merge branch 'master' into Charles_branch
+
+commit 0d6c8e19a3008aeb688d27f8bd0ed5fbc662d458
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sat Jul 11 10:25:14 2020 +1000
+
+    Team profile content
+
+commit eddde9c9135ab6be11c187e240de30738f40e95a
+Merge: 22f27bd b0179f1
+Author: charles2075 <charles.patterson1@hotmail.com>
+Date:   Sat Jul 11 10:14:39 2020 +1000
+
+    Merge branch 'Charles_branch'
+
+commit b0179f1aeda74781e69240473c2c36c0bc55c82f
+Author: charles2075 <charles.patterson1@hotmail.com>
+Date:   Sat Jul 11 10:14:19 2020 +1000
+
+    Update
+    
+    Log text
+    Profile pic for Ian
+    Audio file from Jess
+    Removed redundant google doc links
+
+commit 3e92acd0dfac9be3c888ca3ee53b5500d00ea9ca
+Author: charles2075 <charles.patterson1@hotmail.com>
+Date:   Sat Jul 11 10:01:22 2020 +1000
+
+    Create profilecharles.jpg
+
+commit 7194267d9d86f769b563a1c729b262695105ac07
+Merge: d4b828b 22f27bd
+Author: charles2075 <charles.patterson1@hotmail.com>
+Date:   Sat Jul 11 09:56:20 2020 +1000
+
+    Merge branch 'master' of https://github.com/a2-simple-b/A2_Group_22
+
+commit d4b828bc308d4398d6ca14479f78d1932cca34bb
+Author: charles2075 <charles.patterson1@hotmail.com>
+Date:   Sat Jul 11 09:56:14 2020 +1000
+
+    Update
+    
+    Added Log.txt containing partial log of previous activities
+    
+    Removed redundant google drive links
+    
+    Group reflection issues added
+
+commit 22f27bd843d9e7d73d5c77cc2561b7e886a67fa2
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Fri Jul 10 13:43:41 2020 +1000
+
+    Update PDF_Report_A22.pdf
+
+commit 3982ba6e777504aa4ac222ec328393706e20ed07
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Fri Jul 10 13:41:30 2020 +1000
+
+    Correct menu links
+
+commit c002145dd295118e4dd2715f9a5a3e552249fc58
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Fri Jul 10 13:25:24 2020 +1000
+
+    menu links
+
+commit dfc93c963ad7c5c8fe85b8015af5cdf322cc9a9d
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Fri Jul 10 13:23:30 2020 +1000
+
+    Update index.html
+
+commit 27b84f29d44e06a8b0da7337732eb2eb2590198b
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Fri Jul 10 12:50:58 2020 +1000
+
+    Create project_idea page. Also, github pages needs matching case for images. Doh!
+
+commit bad46629221a9f8861bd1b328339bfb2419c1791
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Fri Jul 10 12:46:47 2020 +1000
+
+    Update index.html
+
+commit 3a64515730ff15658929c1cad150caacb56d61ad
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Fri Jul 10 12:22:17 2020 +1000
+
+    Update current jobs for team members. Plus current work on PDF report
+
+commit 98618ccbf6538c8c4d83b1fd208b979b6e1d8f34
+Merge: 1507777 de9e60c
+Author: charles2075 <charles.patterson1@hotmail.com>
+Date:   Thu Jul 9 17:37:25 2020 +1000
+
+    Merge branch 'Charles_branch'
+
+commit de9e60cfe84c73afa28d9c7ae5ae0227c155d5f7
+Author: charles2075 <charles.patterson1@hotmail.com>
+Date:   Thu Jul 9 17:36:42 2020 +1000
+
+    Updated Jess' Interview from Google Docs
+
+commit 1507777fad03f5eea4cf173c81141daa1ff9b158
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Thu Jul 9 17:27:45 2020 +1000
+
+    Team profile
+
+commit 8e4c5f3a0fb2c93784f4c2f7aab700ee4ac40ac9
+Merge: b21d98c 0a87908
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Wed Jul 8 20:57:12 2020 +1000
+
+    Merge branch 'master' into Chris_branch
+
+commit 0a87908dedf8ef3dd32fc33ae735ba8fb6809a66
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Wed Jul 8 20:56:18 2020 +1000
+
+    Create Group Profile.txt
+
+commit 475e99152d3ce22cd45a45d6d1c64cd2ef06abdd
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Wed Jul 8 20:53:28 2020 +1000
+
+    Update index.html
+    
+    Meeting minutes
+
+commit a3ac289d18810e0df18cad7df2f5f1d40fb81985
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Wed Jul 8 20:13:32 2020 +1000
+
+    Update index.html
+
+commit b21d98c29bd1383d45f380d0bb013794f00d4d3a
+Merge: e13d86f 5f3e43c
+Author: chrislai001 <66664359+chrislai001@users.noreply.github.com>
+Date:   Wed Jul 8 18:18:13 2020 +1000
+
+    Merge branch 'master' into Chris_branch
+
+commit 5f3e43cb696387d05e476846f20140e801fb1096
+Merge: 7170148 0456241
+Author: PioneerTechnologist <67222794+PioneerTechnologist@users.noreply.github.com>
+Date:   Wed Jul 8 18:11:54 2020 +1000
+
+    Merge pull request #2 from a2-simple-b/Jaydens_Branch
+    
+    Jaydens branch
+
+commit 04562419e7bb724726a6fdab0f7c44134a1acf88
+Merge: 39270bf 7170148
+Author: PioneerTechnologist <67222794+PioneerTechnologist@users.noreply.github.com>
+Date:   Wed Jul 8 18:10:01 2020 +1000
+
+    Merge pull request #1 from a2-simple-b/master
+    
+    Update merge
+
+commit 39270bf828abdeccd403f095faf5a0b0c789a18a
+Author: PioneerTechnologist <67222794+PioneerTechnologist@users.noreply.github.com>
+Date:   Wed Jul 8 18:06:53 2020 +1000
+
+    Update Cybersecurity.txt
+
+commit e13d86f7d9a65da85194c3ae481c217df4c0e894
+Author: chrislai001 <66664359+chrislai001@users.noreply.github.com>
+Date:   Wed Jul 8 18:06:45 2020 +1000
+
+    Create Group Profile.txt
+
+commit 21609475bf4299430cd3e2d82d0b948f891109b1
+Author: chrislai001 <66664359+chrislai001@users.noreply.github.com>
+Date:   Wed Jul 8 18:01:58 2020 +1000
+
+    NEW User Profile
+
+commit dd9e8c84a3748bf4c0b84d4e54c324f1b25a660a
+Merge: b6a613e 7170148
+Author: chrislai001 <66664359+chrislai001@users.noreply.github.com>
+Date:   Wed Jul 8 17:57:33 2020 +1000
+
+    Merge branch 'master' into Chris_branch
+
+commit b6a613e3c3202fee4884c0843df2cff5a334bef5
+Author: chrislai001 <66664359+chrislai001@users.noreply.github.com>
+Date:   Wed Jul 8 14:28:02 2020 +1000
+
+    Personal Info, Team Profile, Ideal Jobs
+
+commit 717014841cac802ed1b47fc31cdda5a7c55a1092
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Wed Jul 8 13:56:16 2020 +1000
+
+    Update drafts.html
+
+commit a45f384657dd3cf66a7e8b1d95ce1a8f302523a7
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Wed Jul 8 13:37:00 2020 +1000
+
+    Update main.css
+
+commit 670847d61b77a6a4fdb7b558af5c46b823e7ba0a
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Wed Jul 8 13:29:48 2020 +1000
+
+    Meeting agenda items
+
+commit 1aac184f1ca3e0ae88838ef0ebf5a3ef72fecfae
+Author: PioneerTechnologist <67222794+PioneerTechnologist@users.noreply.github.com>
+Date:   Wed Jul 8 09:29:53 2020 +1000
+
+    Update Machine Learning.txt
+
+commit 5f241aaccd92c824dd6aac11e04ddf3731e29aa7
+Author: PioneerTechnologist <67222794+PioneerTechnologist@users.noreply.github.com>
+Date:   Wed Jul 8 08:44:07 2020 +1000
+
+    Create Cybersecurity.txt
+
+commit 6cb1537287e6fa1131ad4c45e1da18b205233fb1
+Author: PioneerTechnologist <67222794+PioneerTechnologist@users.noreply.github.com>
+Date:   Wed Jul 8 08:43:07 2020 +1000
+
+    Update Machine Learning.txt
+
+commit 5bf657e7137a7fc76dd2d558abbed68aefc15d40
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Tue Jul 7 11:05:44 2020 +1000
+
+    Rename page
+
+commit ad0f578e50417399cd243c585b1255fe4851347a
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Tue Jul 7 10:49:46 2020 +1000
+
+    Update index.html
+
+commit 130e1d2c0a13d32018a350ae0a852ee81479a2da
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Tue Jul 7 10:46:22 2020 +1000
+
+    Update index.html
+
+commit 6e9480643d8fb4e9bea8dbb698aaafd5c8b9d873
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Tue Jul 7 10:44:39 2020 +1000
+
+    Update index.html
+
+commit 000001adfc77176081045c9b09e6c75eb73db24b
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Tue Jul 7 10:39:41 2020 +1000
+
+    Update index.html
+
+commit 36ce12951f0be75b6d04f5e268be628d6de63494
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Tue Jul 7 10:14:26 2020 +1000
+
+    Update main.css
+
+commit 4de55f3888c14b617626c6d33bdac6b0d674c0e2
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Tue Jul 7 10:13:41 2020 +1000
+
+    Update main.css
+
+commit a43efcb0d421320b1ea2ac9ccea30417baf8bddf
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Tue Jul 7 10:11:09 2020 +1000
+
+    Update machine.html
+
+commit d3689503aeb2243a5069eda1abaf51d2df4c5fd0
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Tue Jul 7 10:09:40 2020 +1000
+
+    favicon for Simple B
+
+commit 610cfb96b1dc508d70aba0c2171a4637341873a8
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Tue Jul 7 10:02:11 2020 +1000
+
+    Update machine.html
+
+commit 76b9e25fdfc4be4ffbbe82b89ba8b13939571009
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Tue Jul 7 09:59:08 2020 +1000
+
+    Update machine.html
+
+commit 257c9c57d104996cdb579916a1073a683e85d309
+Merge: dc7f3df db94e7c
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Tue Jul 7 09:56:25 2020 +1000
+
+    Merge branch 'Ians_Branch'
+
+commit db94e7c5b2fda5c8f4620a972fd059612788b93f
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Tue Jul 7 09:56:05 2020 +1000
+
+    edit machine learning page
+    
+    a
+
+commit dc7f3df3e982c8f5edc8100263720bf71fab92a0
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Tue Jul 7 09:55:06 2020 +1000
+
+    Update machine.html
+
+commit 0f346f36ceee66786f1f21d73310142edf5dee20
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Tue Jul 7 09:50:14 2020 +1000
+
+    Update index.html
+
+commit e8500e17bd6ac781d40cee16383f32250ad50f99
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Tue Jul 7 09:43:55 2020 +1000
+
+    banner.gif is too big and takes too long to load on page
+
+commit ff1cca05e364f0ca9a715490e7911f1198a9c20f
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Tue Jul 7 09:40:45 2020 +1000
+
+    Machine learning content and page
+
+commit ea767f1f2f3ac3f2cb65c91e962d5b83379123e0
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Tue Jul 7 09:39:02 2020 +1000
+
+    Create machine.html
+
+commit 07c6c44dc4f9eca29942fc83c56abe1f8cd99a76
+Merge: 199865b f3687bb
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Tue Jul 7 09:23:22 2020 +1000
+
+    Merge remote-tracking branch 'origin/Jaydens_Branch' into Ians_Branch
+
+commit f3687bb2c01e803d19624aa9287d00946aac6b1d
+Author: PioneerTechnologist <67222794+PioneerTechnologist@users.noreply.github.com>
+Date:   Tue Jul 7 09:11:23 2020 +1000
+
+    Update Machine Learning.txt
+
+commit 955433109a1facc235ba4e83eefa50e48d3c21ee
+Author: PioneerTechnologist <67222794+PioneerTechnologist@users.noreply.github.com>
+Date:   Tue Jul 7 08:32:23 2020 +1000
+
+    Update Machine Learning.txt
+
+commit d9a25eea8cbe91dfe6976cf3ff7dc7a55325a233
+Author: PioneerTechnologist <67222794+PioneerTechnologist@users.noreply.github.com>
+Date:   Tue Jul 7 08:30:58 2020 +1000
+
+    Create Machine Learning.txt
+
+commit 199865b899d655b5e304bb3277494903ae4a46f8
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Mon Jul 6 13:05:07 2020 +1000
+
+    Delete CREDITS.txt
+
+commit 55d34ac29c380e737e302555464120f5f71c6f27
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Mon Jul 6 13:03:24 2020 +1000
+
+    Copied website working files to /docs to publish draft
+    
+    Group website based on industrious with basic functionality. Publish on web for team review
+
+commit aea3782aa2f01ab51835efeb1b0721e6afe68d3f
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Mon Jul 6 12:59:52 2020 +1000
+
+    Update index.html
+
+commit 6464970e9586c2405cdb5e40a9e1600465a6db7a
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Mon Jul 6 12:54:11 2020 +1000
+
+    Create PDF_Report_A22.pdf
+    
+    Include draft of PDF report on website
+
+commit 3767c43d00e659ac71be88acbd9478a55d7b805b
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Mon Jul 6 12:52:14 2020 +1000
+
+    Update drafts.html
+    
+    Added menu item to drafts page
+
+commit f70549c18e72b22a26c5fecf36d3bf3029f02f42
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Mon Jul 6 12:48:36 2020 +1000
+
+    Update index.html
+    
+    Include hyperlinks to group website
+
+commit 6a6fd7b4bf8087fdb2f7744dd8e08a55c6314435
+Author: chrislai001 <66664359+chrislai001@users.noreply.github.com>
+Date:   Mon Jul 6 11:38:19 2020 +1000
+
+    Headshot
+
+commit 292c23c64eb67676c6e05e1797b5574ab015201f
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Mon Jul 6 10:16:26 2020 +1000
+
+    Add brain gif to home screen
+
+commit e131ba7d8179d977802978c3518673c31484ae03
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Mon Jul 6 09:48:27 2020 +1000
+
+    Delete brain.png
+
+commit 1b0b098f56d78178ac3e150a13cb3c915fc385aa
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Mon Jul 6 09:45:37 2020 +1000
+
+    Update banner.jpg
+
+commit 76128bec1eb1f893be9a66fc1f99601c9bba2963
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sun Jul 5 21:16:00 2020 +1000
+
+    Updated template references in minutes after cleaning up copies in repo
+
+commit 65c1ad35f5b73749364425cae30b02ad62b31116
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sun Jul 5 21:03:58 2020 +1000
+
+    Update index.html
+
+commit 99d0936c7ac9919ca34834bee50ecd24ec565e40
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sun Jul 5 21:00:05 2020 +1000
+
+    Clean up - remove alternate proposed websites
+
+commit 3063c723bccf860a51d7ccbd4240d6a320892bce
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sun Jul 5 20:50:46 2020 +1000
+
+    Rename working file
+
+commit e586a06b78c1848ceb2b694a1c01a7345f8bcb2e
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sun Jul 5 20:49:58 2020 +1000
+
+    Cleaned working folder
+
+commit f58903aa0e032ba7b51bad6f780967d6bd87ec87
+Merge: c7b456b c897753
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sun Jul 5 20:47:46 2020 +1000
+
+    Merge branch 'Ians_Branch'
+
+commit c7b456b39a57de7260d2a47395d87e7aa96bf582
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sun Jul 5 20:47:35 2020 +1000
+
+    Revert "Remove alternate website ideas"
+    
+    This reverts commit 0b6f82a452b318515782576f60266b778059061a.
+
+commit 0b6f82a452b318515782576f60266b778059061a
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sun Jul 5 20:43:51 2020 +1000
+
+    Remove alternate website ideas
+
+commit c897753b67e32b76af6f0ee37ab5175aa9c493fb
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sun Jul 5 20:41:03 2020 +1000
+
+    Final minutes items
+
+commit ac867d05a53f341e79425c6cf7a3216a23fe2de0
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sun Jul 5 20:30:58 2020 +1000
+
+    Remove alternative website template candidates
+
+commit 46bcaebaea3e23487391d936732591e38ac5e351
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sun Jul 5 20:18:36 2020 +1000
+
+    Updates from meeting
+    
+    Minutes
+    Separated home page / draft writing tasks
+    Moved industrious template to working folder to start development
+
+commit 7b2e40c612926b66a05c017527fc84d69d196e7d
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sun Jul 5 16:53:08 2020 +1000
+
+    Include draft Team Profile from Chris in intranet
+
+commit 4233452b6eef57e5653f245fed6237f8e9d44792
+Merge: 8a1c20f 65ec086
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sun Jul 5 16:29:44 2020 +1000
+
+    Merge branch 'Chris_branch'
+
+commit 65ec0869db1ff7f54e0fda843ff2342f4d895205
+Author: chrislai001 <66664359+chrislai001@users.noreply.github.com>
+Date:   Sun Jul 5 16:24:35 2020 +1000
+
+    Create Team profile.html
+
+commit 8a1c20fc011778fa0c5d1e79dee2884ce975deca
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sun Jul 5 16:24:12 2020 +1000
+
+    Update index.html
+    
+    Jess has reconsidered leaving the group. Yay!!
+
+commit 2b85bf9079a744e316f28870668b6988e1a32948
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sun Jul 5 13:53:44 2020 +1000
+
+    List formatting
+
+commit 0a140db20f12b1d177a90d62e16714dc1ca323ba
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sun Jul 5 13:51:18 2020 +1000
+
+    Include github logs as example for 'Tools'
+
+commit 89882137abf90611985fe032a47d3768135bf0b5
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sun Jul 5 10:25:38 2020 +1000
+
+    Update index.html
+
+commit 75a3479d2e31ca42deb10551b5d9d59c31784d0f
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sun Jul 5 10:20:17 2020 +1000
+
+    Update index.html
+
+commit bb61b4e341eb04ee8d9bfa1c562ba073a109e343
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sun Jul 5 09:55:26 2020 +1000
+
+    Update index.html
+    
+    Progess bars for team tasks
+
+commit b79851ad1146ace775bab0c19c59589316704058
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sun Jul 5 09:33:26 2020 +1000
+
+    Sample report revision
+
+commit 7262c3ad85582a1f48ac3416e364120ca60a705b
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sun Jul 5 09:15:48 2020 +1000
+
+    Update index.html
+    
+    Clean up some formatting
+
+commit fa3427f3c031982db45b9053df4afa8037595d0b
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sun Jul 5 09:09:53 2020 +1000
+
+    Update index.html
+
+commit 27e3cb0f9f92fc3a22edd685595be438df7279ea
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sun Jul 5 09:03:04 2020 +1000
+
+    Include draft project idea on main intranet index.html
+
+commit add70d3ab05eba452a1b3a8f9841cdc66c9d085b
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sun Jul 5 08:37:14 2020 +1000
+
+    Update index.html
+
+commit ed5ae622a6a6a3cba65ad277a28f5852b5430608
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sun Jul 5 08:35:40 2020 +1000
+
+    Update index.html
+
+commit 84d4a7504b6e3f31aed2abc61d67c2dc9827a47a
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sun Jul 5 08:34:03 2020 +1000
+
+    Update index.html
+
+commit fc23fc832f13171048d82585a1430ca69bf1983c
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sun Jul 5 08:31:39 2020 +1000
+
+    Update agenda - Jess has withdrawn from group
+
+commit 147882d69f5070b058d1a9d7dbd1e7d4684389b8
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Fri Jul 3 18:55:23 2020 +1000
+
+    Update index.html
+
+commit 0df0322e140fd4dc2da69e55df61b338a3f213bd
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Fri Jul 3 18:52:00 2020 +1000
+
+    Update index.html
+    
+    Update next agenda
+
+commit 4e22e08f9a9f554e4aa3a4353a514f8ddb70b836
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Fri Jul 3 18:27:14 2020 +1000
+
+    Update index.html
+
+commit 7661795bccf4f7c796eb1f9b72f559f05c06c356
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Fri Jul 3 18:20:33 2020 +1000
+
+    Update index.html
+
+commit 21668caa484146ede8bbc7557dc857f56b18d318
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Fri Jul 3 18:19:10 2020 +1000
+
+    Update index.html
+    
+    Github workflow
+
+commit 9934de9ff1a39381ee73cd31b162ee3b65d47a2e
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Fri Jul 3 18:12:03 2020 +1000
+
+    Update index.html
+    
+    Updated agenda with info regarding new group member Sokun Nget
+
+commit 73a547403373b8efac81be3633c73c583ee57219
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Fri Jul 3 18:02:26 2020 +1000
+
+    Update index.html
+
+commit e17c8da84a4a18485697e2258579d7629f104a2c
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Fri Jul 3 17:59:07 2020 +1000
+
+    Update index.html
+
+commit 850e090efd3c3fc40889f35c91abedee00947bdd
+Merge: d73056c 72d98a3
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Fri Jul 3 17:52:18 2020 +1000
+
+    Merge branch 'master' into Ians_Branch
+
+commit 72d98a363c69e7565e5805243bc7825157f7b5f7
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Fri Jul 3 17:44:55 2020 +1000
+
+    Update index.html
+
+commit cb554545c92a9b88c5fa8d34fa42502fa007fcf2
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Fri Jul 3 17:39:15 2020 +1000
+
+    Update index.html
+    
+    Include input from Jayden regarding IT Technologies task
+
+commit d73056cae4f3d89c83de4bc1f3623a773dd7de6d
+Merge: 0295237 89f5833
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Fri Jul 3 17:07:46 2020 +1000
+
+    Merge branch 'master' into Ians_Branch
+
+commit 89f58335aa7ad73177e14397de185ba7d484a631
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Fri Jul 3 17:07:28 2020 +1000
+
+    Move sample pdf to working folder
+
+commit ebb5a9d04f9f238c6fa5a6ea2ab8f403f83f9de8
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Fri Jul 3 17:05:10 2020 +1000
+
+    Updated sample pdf report + add new group member to meeting agenda
+
+commit 204dd8514ad753ee2d85e79011112126be2d31ee
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Fri Jul 3 15:48:40 2020 +1000
+
+    Update Draft_Project_Idea.html
+
+commit 6715612da9a7a74e0db8aac4181c0e53c2d64799
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Fri Jul 3 15:36:01 2020 +1000
+
+    A3+A5 considerations
+
+commit 28c87fd584aa0b55c1bc08e27ecbaf41b1d54cd7
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Fri Jul 3 14:56:25 2020 +1000
+
+    Update index.html
+
+commit 02952379ef19b5d04235dbfb404cc9b5397ece69
+Merge: ae63b0a 6b03091
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Fri Jul 3 14:54:54 2020 +1000
+
+    Merge branch 'master' into Ians_Branch
+
+commit 6b03091a71233e0fd03081f0bfe2bb7a524d871e
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Fri Jul 3 14:41:47 2020 +1000
+
+    Update banner.mp4
+    
+    Change stock video banner to AI brain from https://www.videezy.com/technology/45426-digital-ai-brain-technology
+
+commit 0597e779a32fe12affc9fb1371f84161d7069515
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Fri Jul 3 14:10:22 2020 +1000
+
+    Update index.html
+
+commit ae63b0a0394bc899a374f23b75ee14d1c1290a70
+Merge: 27d3b5a 79f4e7a
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Fri Jul 3 07:10:16 2020 +1000
+
+    Merge branch 'master' into Ians_Branch
+
+commit 79f4e7a66c1832768035a713cc67e32304458db1
+Author: Jove <65845731+Jove2001@users.noreply.github.com>
+Date:   Fri Jul 3 07:09:53 2020 +1000
+
+    Update README.md
+
+commit 023a3a160ffd0f156c9ca8564c053d5b9b84c237
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Fri Jul 3 07:07:54 2020 +1000
+
+    Update index.html
+
+commit 86f7f29760e33ac5bbf3df644d37e31340c075b9
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Fri Jul 3 03:22:29 2020 +1000
+
+    Updated sample report
+
+commit 27d3b5ae4b5fe9e2559c3c202b9b1c0af51368e3
+Merge: 92b7a35 c7c93e6
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Fri Jul 3 03:02:14 2020 +1000
+
+    Merge branch 'master' into Ians_Branch
+
+commit c7c93e68059e4b0cf884d7fd99d90414155a49c1
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Fri Jul 3 02:50:49 2020 +1000
+
+    Update index.html
+
+commit 36bc2c4846ba88dffc501ee74aef6b58532bc1cb
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Fri Jul 3 02:36:51 2020 +1000
+
+    Update index.html
+
+commit 6ede06a1d173c0fed996cdaa8d3093b999bf7f28
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Fri Jul 3 02:34:58 2020 +1000
+
+    Update index.html
+
+commit 73c763e04753b8486be9b4d6a569fea58b1ddb73
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Fri Jul 3 02:33:11 2020 +1000
+
+    Update index.html
+
+commit 213226e10b9850764576f21e0f94e46296747fd6
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Fri Jul 3 02:32:22 2020 +1000
+
+    Update index.html
+
+commit 92b7a35cdc5704953be235c1ba0572a1f39f93c6
+Merge: 4484f74 b71dd41
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Fri Jul 3 02:25:39 2020 +1000
+
+    Merge branch 'master' into Ians_Branch
+
+commit b71dd41f1f6413e254cce48782d0638fe598bd50
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Fri Jul 3 02:25:24 2020 +1000
+
+    Restructure folders in team intranet
+
+commit 94c1cea4cb463563a8339209e6044ec5dae0c8bc
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Fri Jul 3 02:18:42 2020 +1000
+
+    Update index.html
+
+commit 9840d31cc4c947dfb0a7407366707d9a89060e59
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Fri Jul 3 02:16:40 2020 +1000
+
+    Implement intranet style for meeting agendas and minutes
+
+commit 4484f74384d93273d364a9e96ae67b44a9024bae
+Merge: 69bc762 e6bf8f8
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Fri Jul 3 01:25:18 2020 +1000
+
+    Merge branch 'master' into Ians_Branch
+
+commit e6bf8f8477232e3e16fbf175a9a13e0b12db3852
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Fri Jul 3 01:25:00 2020 +1000
+
+    Links to sample websites
+
+commit f7b1ec1be2862a755c92856520cf5da3afffb8f5
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Fri Jul 3 01:15:55 2020 +1000
+
+    Update Draft_Project_Idea.html
+
+commit e978afd3e53687688475b18b460e027028eb64ff
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Fri Jul 3 01:13:59 2020 +1000
+
+    Update Draft_Project_Idea.html
+
+commit ed58d083053380e0466dc7839b5b83131c80784a
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Fri Jul 3 01:09:52 2020 +1000
+
+    Update Draft_Project_Idea.html
+
+commit b6ae7d0c007da041d3b421c29a86230cc8224c21
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Fri Jul 3 01:02:11 2020 +1000
+
+    Update Draft_Project_Idea.html
+
+commit 917ea93880f8a77133030843445f5ac118871fdc
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Fri Jul 3 01:00:48 2020 +1000
+
+    Update Meeting_Minutes.html
+
+commit 69bc76269f13c9d849d9f465f2d4c133e4a20e8c
+Merge: bf73485 0d55fb1
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Fri Jul 3 00:59:50 2020 +1000
+
+    Merge branch 'master' into Ians_Branch
+
+commit 0d55fb18362f6035a2c4fbfeb1aa79b0715c51ef
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Fri Jul 3 00:58:08 2020 +1000
+
+    Moved draft project to meeting minutes folder
+
+commit 0246a24038ac33eceac5ccfa3ea4b371ad2ecca2
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Fri Jul 3 00:56:53 2020 +1000
+
+    Draft project idea
+
+commit bf73485e0e8bf8289af28dffc694bd613c2f4909
+Merge: 3d90455 953e680
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Fri Jul 3 00:37:26 2020 +1000
+
+    Merge branch 'master' into Ians_Branch
+
+commit 3d90455f866c64294c72b2f4435a83ae7e8b693c
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Fri Jul 3 00:37:21 2020 +1000
+
+    Update Sample_Report_with_Lorum.odt
+
+commit 953e680811ceab7ffa3669025dd6cc1beb2b8f41
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Fri Jul 3 00:36:43 2020 +1000
+
+    Revised sample report
+
+commit bb6043270ab8792bb2d43adca3c5dc5e7353946c
+Merge: 04ab6fe 70f1cf4
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Fri Jul 3 00:24:20 2020 +1000
+
+    Merge branch 'master' into Ians_Branch
+
+commit 70f1cf4a54715a6fb7fbba4108b8db437f9128d4
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Fri Jul 3 00:23:55 2020 +1000
+
+    Create Sample_Report_with_Lorum.odt
+
+commit 04ab6fee0bbfc3c678c9f4bef4db0ca52a3de6d4
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Fri Jul 3 00:22:40 2020 +1000
+
+    Created sample report for Jess
+
+commit be3468042719bd628a6603246c2ea7b3fb727cab
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Thu Jul 2 11:36:40 2020 +1000
+
+    Update Meeting_Minutes.html
+
+commit f8e974b7a43d574b73d11eb6afdcef83c8f113b7
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Thu Jul 2 11:35:37 2020 +1000
+
+    Update Meeting_Minutes.html
+
+commit 98d014be768f7627130e7fae76e96562f9e6f921
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Thu Jul 2 11:33:01 2020 +1000
+
+    Update index.html
+
+commit 441023465b9e2557e3a44587d0bb7b9a3efc1eb3
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Thu Jul 2 11:31:07 2020 +1000
+
+    Update Meeting_Minutes.html
+
+commit 8e06b3037f2b5a08836792f32d29ae68e556bacd
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Thu Jul 2 11:24:16 2020 +1000
+
+    4x branding idea variations
+
+commit 29c7443151618f9bae5946e8be5d97f55e48ffd5
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Thu Jul 2 10:17:57 2020 +1000
+
+    Branding ideas
+
+commit cb15846a9e79a1e9afe5e7c69ab3ab2375dda738
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Thu Jul 2 09:47:03 2020 +1000
+
+    Edit branding images
+
+commit c9cc802d62d23be31f67aac711aaae5691b7954b
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Thu Jul 2 09:38:55 2020 +1000
+
+    Simple B branding ideas
+
+commit a7deaca2bfb520a5df286dff209afd958b11c5fa
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Thu Jul 2 09:16:40 2020 +1000
+
+    Update Meeting_Minutes.html
+    
+    Agenda items for meeting 2
+
+commit 43c7d5e319b0ab30b6a713ecd55da86d84448da9
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Thu Jul 2 09:13:13 2020 +1000
+
+    Update Meeting_Minutes.html
+    
+    Agenda items for next meeting
+
+commit a8012f97714cd8a0cc65e4fdc1536dc3ca9c59df
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Thu Jul 2 09:06:41 2020 +1000
+
+    Update Meeting_Minutes.html
+
+commit f15a364cbf916050d01388bad70ccd9c2f050c62
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Thu Jul 2 08:53:36 2020 +1000
+
+    Update Meeting_Minutes.html
+
+commit 8941c557852c2e14e84d5981b743f16e52fb58c0
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Thu Jul 2 08:41:18 2020 +1000
+
+    A2 contributions form + reference in minutes
+
+commit 31a64a3451ed65990193b839f000d554a8b5b5b4
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Thu Jul 2 08:36:05 2020 +1000
+
+    Create index.html
+
+commit 3e2a8ae5bd2dd92b57bb1469df4d973fd5c42dda
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Thu Jul 2 08:18:58 2020 +1000
+
+    Update Meeting_Minutes.html
+
+commit 76aab5f7b8ba0201baa06fd06950ad86c412dc40
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Thu Jul 2 08:10:16 2020 +1000
+
+    Update A2_Breakdown.html
+
+commit 352cfbea0cefb98c2664d2779b46b3a1b8ee5b97
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Thu Jul 2 07:43:53 2020 +1000
+
+    Update Meeting_Minutes.html
+
+commit b9108e229892e0f403ebae8414c285d24c92b357
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Thu Jul 2 07:42:22 2020 +1000
+
+    Include pdf for A3 and link to A5
+
+commit 379d6ff0238e74b1016c251a42e72363e6960e82
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Thu Jul 2 07:33:57 2020 +1000
+
+    Update Meeting_Minutes.html
+
+commit d3bf51fed8be69f83687aab4f4131e118620fad3
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Thu Jul 2 07:30:17 2020 +1000
+
+    Write draft agenda for next meeting
+
+commit e6086599ca804f77afc2a26fa23736fe6ae17a24
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Thu Jul 2 07:11:02 2020 +1000
+
+    Removed duplicate folder
+
+commit 6ae61d761cdca009baf991a1e000117becb3007a
+Merge: 12c4e92 25bfcb3
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Thu Jul 2 07:09:09 2020 +1000
+
+    Merge branch 'master' into Ians_Branch
+
+commit 25bfcb35e820a629f2ef3ab9db024c98ac3f12a0
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Thu Jul 2 07:05:03 2020 +1000
+
+    Create folder for content from writing tasks in Final Content
+    
+    The text from this folder is incorporated into the website and PDF
+
+commit 3f1dd132856b5a86581c0ac2627bfbb808f1df48
+Author: charles2075 <charles.patterson1@hotmail.com>
+Date:   Thu Jul 2 06:22:14 2020 +1000
+
+    Updated working files
+
+commit 12c4e92edbec693081e01ad2ee3c972d634c2c19
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Thu Jul 2 02:55:39 2020 +1000
+
+    Text files for submission to website and PDF
+
+commit 71e160aa92c4717af762de3efc34357ef1884cab
+Author: Jove <65845731+Jove2001@users.noreply.github.com>
+Date:   Thu Jul 2 02:54:08 2020 +1000
+
+    Update README.md
+
+commit b7a9fb89fa9a0f86f5f761a86656312a60fb878a
+Author: Jove <65845731+Jove2001@users.noreply.github.com>
+Date:   Thu Jul 2 02:53:50 2020 +1000
+
+    Update README.md
+
+commit 38af4622851e770b30d151b0b7716fbc4a1adff8
+Author: Jove <65845731+Jove2001@users.noreply.github.com>
+Date:   Thu Jul 2 02:51:59 2020 +1000
+
+    Update README.md
+
+commit 9eb94ccca36bbb46fc9d7eb438eeea3590ce44ce
+Author: Jove <65845731+Jove2001@users.noreply.github.com>
+Date:   Thu Jul 2 02:51:26 2020 +1000
+
+    Update README.md
+
+commit 0854342bbb84da17396d4b96cd5f9cee52cddd4c
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Thu Jul 2 02:44:17 2020 +1000
+
+    Organise files for submission to website and PDF
+
+commit 732d0df0d001ae5a94329b3d87b54d0263924004
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Thu Jul 2 02:38:06 2020 +1000
+
+    Restructure folders in website working
+
+commit 67ed0cd1acebfe57e97fadce68556e513b60b074
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Thu Jul 2 02:24:40 2020 +1000
+
+    Update Meeting_Minutes.html
+
+commit f5be42a1d53f4d7b7577f1dff34e197ac5fe98bc
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Thu Jul 2 02:00:54 2020 +1000
+
+    Adding possible web templates
+
+commit 578927144172bf1b93d2fe3e9f5b2fc0b6efe6b5
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Thu Jul 2 01:29:53 2020 +1000
+
+    Update Meeting_Minutes.html
+
+commit 7c6c8ddd78f2b24512d384a53a15eae09a6ae42f
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Thu Jul 2 01:22:32 2020 +1000
+
+    Update banner.jpg
+
+commit 2bf2468b1b6a5d6ccbe09345654c0ac25c49e971
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Thu Jul 2 01:02:07 2020 +1000
+
+    First work on draft website proposal
+
+commit 385924715fb00994ef5f3e9f14746e6e2a5dc773
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Thu Jul 2 00:50:27 2020 +1000
+
+    Update Meeting_Minutes.html
+
+commit c17074439b0b1ff1b069daaa0afbbe38cbbb84d4
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Thu Jul 2 00:49:26 2020 +1000
+
+    Tidy up folder structure
+
+commit 3529a69d74b41377067da4c0d673dec0016e9ff3
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Thu Jul 2 00:43:26 2020 +1000
+
+    Update Meeting_Minutes.html
+
+commit 6f3d603346eecdcd7ac7277850f049bebf26dfce
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Thu Jul 2 00:40:31 2020 +1000
+
+    Update Meeting_Minutes.html
+
+commit 8c5c9c114f6a0de5722ced3c68c0285660ae3eed
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Thu Jul 2 00:38:48 2020 +1000
+
+    Changed folder structure
+
+commit 5cbdc4e74072f68402c1ae5c22f74fe4eb423e6a
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Thu Jul 2 00:23:35 2020 +1000
+
+    Update Meeting_Minutes.html
+
+commit 8a5d2f818dd011781a68843b2a50caccee385478
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Thu Jul 2 00:18:54 2020 +1000
+
+    Create IntroToIT_Assessment_Task_2-Team_Project.pdf
+
+commit 152e9b2cff3fd771dc52c651cf05b154ab0e47cb
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Thu Jul 2 00:17:20 2020 +1000
+
+    Created folder for meeting minutes and copied over content.
+
+commit 40030c5d28e14825e19da1ffe5d17694f947c0a9
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Thu Jul 2 00:10:27 2020 +1000
+
+    Moved A2.pdf
+
+commit 381f4a392e15ca0caa27b1c133c25e20488f0c04
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Wed Jul 1 23:59:20 2020 +1000
+
+    Copy meeting minutes to hosted location. Made href in index.html
+
+commit c7322d8b7ef210d79955714260004fadd785671d
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Wed Jul 1 23:54:08 2020 +1000
+
+    Update index.html
+
+commit ff1bda95f2c99af7947bc816469a797cf2de08b4
+Merge: dedc108 c2b35dd
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Wed Jul 1 23:53:00 2020 +1000
+
+    Merge branch 'master' of https://github.com/a2-simple-b/A2_Group_22
+
+commit dedc108e00feec83d10f79f326cef783c6a48614
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Wed Jul 1 23:52:45 2020 +1000
+
+    Create index.html
+
+commit 459777f88769edd56f3cfff0aca46fd9dc1b645d
+Merge: f972510 b94bedd
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Wed Jul 1 23:48:13 2020 +1000
+
+    Merge branch 'master' into Ians_Branch
+
+commit c2b35ddcc396eedb22e093181a3d68dc7ab1bc65
+Author: charles2075 <charles.patterson1@hotmail.com>
+Date:   Wed Jul 1 23:46:30 2020 +1000
+
+    Set theme jekyll-theme-cayman
+
+commit f9725101a19904e8a6117d8b8affd262fd43c765
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Wed Jul 1 23:44:46 2020 +1000
+
+    Update index.html
+
+commit b94bedd24b25e8d3f5739a3638e78b4cd803d1f6
+Author: charles2075 <charles.patterson1@hotmail.com>
+Date:   Wed Jul 1 23:38:17 2020 +1000
+
+    Create index.html
+
+commit 92fc651763251aadd3ef75f007e9c1201accafe9
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Wed Jul 1 23:37:08 2020 +1000
+
+    Website ideas
+
+commit 6c57dbd5ed20e71a687c9853208b9a97ee0845ad
+Author: charles2075 <charles.patterson1@hotmail.com>
+Date:   Wed Jul 1 23:11:00 2020 +1000
+
+    Added Google doc link for Ian's Project Idea
+
+commit 34c23d65c29fb8133b8e133ab3c3567b5324f012
+Merge: 880f854 f8b0bb9
+Author: charles2075 <charles.patterson1@hotmail.com>
+Date:   Wed Jul 1 23:06:49 2020 +1000
+
+    Merge branch 'Ians_Branch'
+
+commit 880f85451c1e232dd2595b3ffc90345f0ca93c2c
+Author: charles2075 <charles.patterson1@hotmail.com>
+Date:   Wed Jul 1 23:05:32 2020 +1000
+
+    Update
+
+commit 541be01f23cd2d058a8290d32097a098a9e948f8
+Author: charles2075 <charles.patterson1@hotmail.com>
+Date:   Wed Jul 1 23:03:42 2020 +1000
+
+    Update
+    
+    Updated folder roots and work locations with respective google doc links to allow for collaboration.
+
+commit f8b0bb979b2a25b8b9c99302e9a923ff12591bae
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Wed Jul 1 23:03:07 2020 +1000
+
+    Update Meeting_Minutes.html
+    
+    Corrected for grammer and completeness
+
+commit b54f281078331d523fa160bcfa1ed8c3357f02ea
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Wed Jul 1 22:43:12 2020 +1000
+
+    Create Meeting_Minutes.html
+
+commit 8f569a1bcb5b8a1e631cd4ffa914648750895728
+Author: charles2075 <charles.patterson1@hotmail.com>
+Date:   Wed Jul 1 21:58:07 2020 +1000
+
+    Create README.md
+
+commit a1be549ded4367cdc0ccbb482d8db0bfa06c9a1f
+Author: charles2075 <charles.patterson1@hotmail.com>
+Date:   Wed Jul 1 21:52:38 2020 +1000
+
+    Base
+
+commit c5bd7f4ef1ad38ada117f4b4a81c0f0af087ab84
+Author: charles2075 <charles.patterson1@hotmail.com>
+Date:   Wed Jul 1 21:13:56 2020 +1000
+
+    Folder Structure
